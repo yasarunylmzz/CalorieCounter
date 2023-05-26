@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Calorie"
+        ></item>
+    <item
+        android:id="@+id/bottom_bmi"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Calorie"
+        ></item>
+
+
+
+</menu>
